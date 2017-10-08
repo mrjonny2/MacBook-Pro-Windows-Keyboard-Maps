@@ -1,5 +1,6 @@
 # MacBook Pro Windows Keyboard Maps
 The following contains files to map all the keys in windows correctly for MacBook Pros
+Maps were created with Microsoft Keyboard Layout Creator
 
 ## 15" MacBook Pro - British English
 The following map is for the EU layout British English MacBook Pro keyboard
